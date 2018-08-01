@@ -1,6 +1,6 @@
 # nuxtTuto
 
-> My awesome recipe book app
+> My awesome recipes book app
 
 ## Build Setup
 
